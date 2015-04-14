@@ -3,6 +3,11 @@ KnProxy-with-bootstarp
 
 Based on KnProxy projects and bootstarp.Aim at making UI more beautiful.
 
+KnProxy--bootstarp美化版
+============
+
+基于KnProxy4.5和bsie版bootstarp.意在把KnProxy的界面变得更加好看。
+
 KnProxy
 ============
 
